@@ -1,0 +1,46 @@
+{
+  "platform": "kuaishou",
+  "video_specs": {
+    "aspect_ratio": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "codec": "h264",
+    "bitrate": "5-8M",
+    "audio_sample_rate": 48000
+  },
+  "optimal_duration": {
+    "min": 15,
+    "optimal": 30,
+    "max": 60
+  },
+  "features": {
+    "auto_highlight": true,
+    "product_detection": true,
+    "text_overlay": true,
+    "music_sync": true,
+    "effect_library": [
+      "fade",
+      "shake",
+      "zoom",
+      "flash",
+      "blur",
+      "speed_up"
+    ]
+  },
+  "seo": {
+    "auto_tags": true,
+    "hashtag_generation": true,
+    "keyword_extraction": true
+  },
+  "best_practices": {
+    "opening": "前 3 秒立即展示产品或吸引眼球",
+    "pacing": "平均镜头 2-3 秒，保持快节奏",
+    "pricing": "突出显示价格、折扣、限时信息",
+    "cta": "频繁出现行动号召 (点击购买/现在抢购)",
+    "music": "BPM 120-140 效果最佳",
+    "people": "真人出镜增加信任度",
+    "usage": "展示使用场景和用户评价",
+    "effects": "频繁使用转场和特效"
+  }
+}

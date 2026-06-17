@@ -1,0 +1,37 @@
+# 环境
+.env
+.venv
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 输出
+outputs/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.srt
+
+# 临时文件
+tmp/
+temp/
+*.tmp
+
+# 数据
+data/
+music/
+videos/
